@@ -1,0 +1,1 @@
+This project requires me to make a Google Homepage copy. This is going to improve my HTML and CSS skills.
